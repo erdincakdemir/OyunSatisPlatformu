@@ -1,0 +1,72 @@
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Core.dll
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Entity.dll
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\vektorel\Downloads\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Core.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Entity.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache

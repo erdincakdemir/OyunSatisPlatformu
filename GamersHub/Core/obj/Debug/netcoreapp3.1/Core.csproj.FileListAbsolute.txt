@@ -1,0 +1,40 @@
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Mustafa Akdemir\Grup 212\20230809\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\vektorel\Downloads\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\vektorel\Downloads\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\vektorel\Downloads\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\vektorel\Downloads\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\vektorel\Downloads\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vektorel\Downloads\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\vektorel\Downloads\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\vektorel\Downloads\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\vektorel\Downloads\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\vektorel\Downloads\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\Core\obj\Debug\netcoreapp3.1\Core.pdb

@@ -1,0 +1,34 @@
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.deps.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\Core.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\Entity.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.AssemblyReference.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfoInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfo.cs
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CopyComplete
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.deps.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfo.cs
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.pdb

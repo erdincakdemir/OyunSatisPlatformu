@@ -1,0 +1,180 @@
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.exe
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.deps.json
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.runtimeconfig.json
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.runtimeconfig.dev.json
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.dll
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.pdb
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.csproj.AssemblyReference.cache
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.AssemblyInfoInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.AssemblyInfo.cs
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.csproj.CoreCompileInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\staticwebassets\GamersHub.API.StaticWebAssets.Manifest.cache
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.RazorTargetAssemblyInfo.cache
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.dll
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.pdb
+D:\Mustafa Akdemir\Grup 212\20230816\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.genruntimeconfig.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.exe
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.deps.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.runtimeconfig.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.runtimeconfig.dev.json
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.csproj.AssemblyReference.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.AssemblyInfoInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.AssemblyInfo.cs
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.csproj.CoreCompileInputs.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\staticwebassets\GamersHub.API.StaticWebAssets.Manifest.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.RazorTargetAssemblyInfo.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.genruntimeconfig.cache
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Core.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Entity.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.csproj.CopyComplete
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mustafa Akdemir\Grup 212\20230818\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.exe
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.deps.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.runtimeconfig.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.runtimeconfig.dev.json
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\GamersHub.API.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.csproj.AssemblyReference.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.AssemblyInfoInputs.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.AssemblyInfo.cs
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.csproj.CoreCompileInputs.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\staticwebassets\GamersHub.API.StaticWebAssets.Manifest.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\staticwebassets\GamersHub.API.StaticWebAssets.Pack.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GamersHub.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GamersHub.API.props
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GamersHub.API.props
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GamersHub.API.props
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.RazorTargetAssemblyInfo.cache
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.csproj.CopyComplete
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.dll
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.pdb
+C:\Users\eakde\OneDrive\Masaüstü\.NET Dersteki Kodlar\Ağustos\18 Ağustos - API,Controller\GamersHub-20230819T070123Z-001\GamersHub\GamersHub.API\obj\Debug\netcoreapp3.1\GamersHub.API.genruntimeconfig.cache
